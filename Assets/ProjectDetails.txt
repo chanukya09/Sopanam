@@ -1,0 +1,5 @@
+if we are in zero we get 6We can start the game
+if we start the game and we get 1 ,gate zero is unlocked
+same if we get 6 gate 5 is unlocked
+if we are in 7 and we get 3
+we add to 7 (i.e:10) and gat 9 should be unlocked
