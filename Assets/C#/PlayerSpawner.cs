@@ -25,13 +25,12 @@ public class PlayerSpawner : SimulationBehaviour, IPlayerJoined,ISceneLoadDone
         if (Runner.GameMode == GameMode.Single)
         {
             playerRef = player;
-            return;
+            
         }
         if (player == Runner.LocalPlayer)
         {
             playerRef= player;
         }
-        else { }
     }
 
     public void SceneLoadDone(in SceneLoadDoneArgs sceneInfo)
